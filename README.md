@@ -40,7 +40,8 @@ task.resume()
 
 ### App Walkthrough GIF
 
-<img src="https://recordit.co/yy1WmygFMZ" width=250><br>
+<img src="http://g.recordit.co/yy1WmygFMZ.gif" width=250><br>
++<img src="/gif/sample.gif?raw=true" width="250px">
 
 ### Notes
 This is a basic prototype of the application
